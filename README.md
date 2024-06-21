@@ -1,4 +1,4 @@
-# Little lemon restaurant online rservation system
+# Little lemon restaurant online reservation system
 
 ## Description
 Welcome to the Little Lemon Restaurant Online Reservation System! 
@@ -21,6 +21,7 @@ This project was developed using the following technologies: \
 - HTML: Used for the structure of the web pages
 - CSS: Used for styling the web pages
 - React hooks: Used to manage state and handle user interactions
+
 
 
 
